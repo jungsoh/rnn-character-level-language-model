@@ -4,6 +4,8 @@ We build a recurrent neural network (RNN) that can generate text at the characte
 
 ![dinosaur](images/dino.jpg)
 
+I did this project in the [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+
 ## Dataset
 We have a list of 1536 dinosaur names compiled into a dataset that looks like:
 ```
